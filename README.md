@@ -1,34 +1,30 @@
-Car Project
-Opis
+# Car Project:
 
-Projekt wykonany w języku Python przedstawiający podstawy programowania obiektowego (OOP).
+## Opis:
 
-Program zawiera klasę Car, która umożliwia:
+### Projekt wykonany w języku Python przedstawiający podstawy programowania obiektowego (OOP).
 
-tworzenie obiektów reprezentujących samochody,
-przechowywanie informacji o marce pojazdu,
-przechowywanie roku produkcji,
-przechowywanie rodzaju paliwa,
-przechowywanie maksymalnej prędkości,
-wyświetlanie informacji o samochodzie,
-symulację jazdy pojazdu,
-zmianę parametrów obiektu.
-Technologie
-Python 3.x
-Pliki projektu
-car.py
+  Program zawiera klasę Car, która umożliwia:
 
-Główny plik programu zawierający:
+  1. tworzenie obiektów reprezentujących samochody,
+  2. przechowywanie informacji o marce pojazdu,
+  3. przechowywanie roku produkcji,
+  4. przechowywanie rodzaju paliwa,
+  5. przechowywanie maksymalnej prędkości,
+  6. wyświetlanie informacji o samochodzie,
+  7. symulację jazdy pojazdu,
+  8. zmianę parametrów obiektu.
 
-definicję klasy Car,
-metody wyświetlania informacji o pojeździe,
-przykładowe obiekty samochodów,
-demonstrację działania metod klasy.
-Uruchomienie
+### Główny plik programu zawierający:
 
-Uruchom program poleceniem:
+  1. definicję klasy Car,
+  2. metody wyświetlania informacji o pojeździe,
+  3. przykładowe obiekty samochodów,
+  4. demonstrację działania metod klasy.
+  5. Uruchomienie
 
-python car.py
-Autor
+### Uruchom program poleceniem:
+  python car.py
 
-Projekt wykonany w ramach nauki języka Python i podstaw programowania obiektowego.
+### Autor
+  Artur Olszewicz
